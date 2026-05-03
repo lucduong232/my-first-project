@@ -1,1 +1,3 @@
 # my-first-project
+# Ứng dụng Quản lý Bán hàng
+Đây là dự án cuối khóa của tôi...
