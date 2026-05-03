@@ -1,0 +1,14 @@
+/* Trang trí cho toàn bộ trang chủ của Paradise Nursery */
+.landing-page {
+  /* Chèn hình nền */
+  background-image: url('https://example.com/link-anh-nen-paradise-nursery.jpg');
+  
+  /* Căn chỉnh để hình nền phủ kín màn hình cho đẹp */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  /* Chiều cao bằng 100% màn hình hiển thị */
+  height: 100vh; 
+  width: 100%;
+}
